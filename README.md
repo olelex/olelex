@@ -1,16 +1,24 @@
-## Hi there 👋
+# Oleksii Zanko — Junior SOC Analyst
 
-<!--
-**olelex/olelex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Blue Team | SOC L1 in Training | TryHackMe: f8lex
 
-Here are some ideas to get you started:
+## About
+Career changer transitioning from 7 years in hospitality management 
+to cybersecurity. Actively studying SOC operations, network forensics, 
+and incident response through hands-on labs and CTF challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SIEM: Splunk (log correlation, detection rules, alert triage)
+- Network: Wireshark, tcpdump, Nmap, Gobuster
+- Systems: Linux CLI, Windows PowerShell, Active Directory
+- Security: MITRE ATT&CK, SANS/NIST IR, 5W triage methodology
+- Tools: Burp Suite, Hydra, John the Ripper, Metasploit (basic)
+
+## Platforms
+- TryHackMe: [f8lex](https://tryhackme.com/p/f8lex) — Top 15%
+- LinkedIn: [Oleksii Zanko](https://linkedin.com/in/oleksii-zanko)
+
+## Current Focus
+📚 Completing TryHackMe Cyber Security 101 path
+🏆 Hacker Holidays CTF (July 2026)
+🎯 Next: Fortinet NSE 1 | CompTIA Security+
