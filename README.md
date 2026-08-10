@@ -15,7 +15,7 @@ and incident response through hands-on labs and CTF challenges.
 - Tools: Burp Suite, Hydra, John the Ripper, Metasploit (basic)
 
 ## Platforms
-- TryHackMe: [f8lex](https://tryhackme.com/p/f8lex) — Top 15%
+- TryHackMe: [f8lex](https://tryhackme.com/p/f8lex) — Top 4%
 - LinkedIn: [Oleksii Zanko](https://www.linkedin.com/in/oleksii-zanko-9a20b62b5/)
 
 ## Current Focus
