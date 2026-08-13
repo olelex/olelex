@@ -1,6 +1,6 @@
 # Oleksii Zanko — Junior SOC Analyst
 
-🛡️ Blue Team | SOC L1 in Training | TryHackMe: f8lex
+🛡️ Blue Team | Junior SOC Analyst | TryHackMe: f8lex
 
 ## About
 Career changer transitioning from 7 years in hospitality management 
