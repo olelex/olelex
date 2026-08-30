@@ -16,7 +16,7 @@ and incident response through hands-on labs and CTF challenges.
 
 ## Platforms
 - TryHackMe: [f8lex](https://tryhackme.com/p/f8lex) — Top 4%
-- LinkedIn: [Oleksii Zanko](https://www.linkedin.com/in/oleksii-zanko-9a20b62b5/)
+- LinkedIn: [Oleksii Zanko](linkedin.com/in/oleksii-zanko)
 
 ## Current Focus
 📚 Completing TryHackMe Cyber Security 101 path
